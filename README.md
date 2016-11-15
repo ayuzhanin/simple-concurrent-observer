@@ -1,0 +1,1 @@
+# Simple photo push events observer
